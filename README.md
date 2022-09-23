@@ -1,13 +1,12 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
 
-## `Historia de Opera`  
-Ideas a implementar  
-- [ ] ¿Qué es Opera?  
-**Opera** es un *navegador web* que se desarrolló por la empresa Opera Software y tiene versiones para ordenador, móvil y tabletas.  
-- [ ] ¿Cuándo se desarrollo Opera?  
-Se estrenó el 10 de Abril de 1995 teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
-- [ ] ¿Cómo se desarrollo Opera?  
-Se desarrolló gracias al lenguaje de programación C++[^1].  
+## `Historia de Opera`   
+- [ ] ¿**Qué** es Opera?  
+**Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
+- [ ] ¿**Cuándo** se desarrollo Opera?  
+Se estrenó el **10 de Abril de 1995** teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
+- [ ] ¿**Cómo** se desarrollo Opera?  
+Se desarrolló gracias al lenguaje de programación **C++**[^1].  
 
 
 ¿Quién desarrollo Opera?  
