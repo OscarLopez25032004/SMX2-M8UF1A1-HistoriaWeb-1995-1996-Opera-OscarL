@@ -1,6 +1,6 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
 <div class=text-centre>
-Opera
+  Opera··
 </div>
 
 ## `Historia de Opera`   
