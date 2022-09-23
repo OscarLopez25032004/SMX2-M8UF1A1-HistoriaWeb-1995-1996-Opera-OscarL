@@ -2,7 +2,9 @@
 
 ## `Historia de Opera`  
 #0d1117  
-[x] #739
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 > 1. ¿Qué es Opera?  
 **Opera** es un *navegador web* que se desarrolló por la empresa Opera Software y tiene versiones para ordenador, móvil y tabletas.  
 >
