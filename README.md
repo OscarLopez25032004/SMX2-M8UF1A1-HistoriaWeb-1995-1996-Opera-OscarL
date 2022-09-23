@@ -1,6 +1,7 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
 
 ## `Historia de Opera`  
+Ideas a implementar  
 #0d1117  
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
