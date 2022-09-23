@@ -1,7 +1,7 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
 <div style="text-align: right"> Opera </div>
 
-<center> <h1>Opera</h1> </center>
+
 ## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
 **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
@@ -21,3 +21,6 @@ Barra temporal¿?¿?¿
 4.  En Junio de 2000 se incluyo la navegación por pestañas  
 
 [^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos.
+
+
+<center> <h1>Opera</h1> </center>
