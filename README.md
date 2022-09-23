@@ -7,7 +7,7 @@ Ideas a implementar
 - [ ] ¿Cuándo se desarrollo Opera?  
 Se estrenó el 10 de Abril de 1995 teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
 - [ ] ¿Cómo se desarrollo Opera?  
-My reference.Se desarrolló gracias al lenguaje de programación C++[^1].  
+Se desarrolló gracias al lenguaje de programación C++[^1].  
 
 
 ¿Quién desarrollo Opera?  
