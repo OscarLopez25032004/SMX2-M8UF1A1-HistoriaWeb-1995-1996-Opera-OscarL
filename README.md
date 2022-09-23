@@ -1,7 +1,6 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
-#<div style="text-align: justify">
-Opera
-#<div/>
+<p style="text-align: justify;">Opera</p>
+
 <center> <h1>Opera</h1> </center>
 ## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
