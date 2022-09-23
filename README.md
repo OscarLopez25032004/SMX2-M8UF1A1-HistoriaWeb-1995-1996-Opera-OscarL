@@ -2,7 +2,7 @@
 #<div style="text-align: justify">
 Opera
 #<div/>
-<justify> <h1>Opera</h1> </justify>
+<center> <h1>Opera</h1> </center>
 ## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
 **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
