@@ -3,16 +3,13 @@
 ## `Historia de Opera`  
 Ideas a implementar  
 - [ ] ¿Qué es Opera?  
-**Opera** es un *navegador web* que se desarrolló por la empresa Opera Software y tiene versiones para ordenador, móvil y tabletas.
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-> 1. ¿Qué es Opera?  
+**Opera** es un *navegador web* que se desarrolló por la empresa Opera Software y tiene versiones para ordenador, móvil y tabletas.  
+- [ ] ¿Cuándo se desarrollo Opera?  
+Se estrenó el 10 de Abril de 1995 teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
+- [ ] ¿Cómo se desarrollo Opera?  
+Se desarrolló gracias al lenguaje de programación C++.  
   
 
-¿Cuándo se desarrollo Opera?  
-Se estrenó el 10 de Abril de 1995 teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
-¿Cómo se desarrollo Opera?  
-Se desarrolló gracias al lenguaje de programación C++.  
 ¿Quién desarrollo Opera?  
 Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en Telenor, aunque después la empresa se ramificó i quedó como Opera Software.  
 ¿Qué fases de desarrollo siguió Opera?  
