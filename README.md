@@ -1,6 +1,8 @@
 ### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
-
-## `                                                                  Historia de Opera`   
+\begin{center}
+### Opera
+\end{center}
+## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
 **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
 - [ ] ¿**Cuándo** se desarrollo Opera?  
