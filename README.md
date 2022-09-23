@@ -5,12 +5,12 @@ Opera
 
 ## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
-\Delta **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
+**Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
 - [ ] ¿**Cuándo** se desarrollo Opera?  
 Se estrenó el **10 de Abril de 1995** teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
 - [ ] ¿**Cómo** se desarrollo Opera?  
 Se desarrolló gracias al lenguaje de programación **C++**[^1].  
-
+\Delta
 
 ¿Quién desarrollo Opera?  
 Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en Telenor, aunque después la empresa se ramificó i quedó como Opera Software.  
