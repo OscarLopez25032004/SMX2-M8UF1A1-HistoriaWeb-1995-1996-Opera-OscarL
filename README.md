@@ -2,8 +2,7 @@
 
 ## `Historia de Opera`  
 Ideas a implementar  
-#0d1117  
-- [x] #739
+- [ ] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 > 1. ¿Qué es Opera?  
