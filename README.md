@@ -18,7 +18,7 @@ Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en 
 [^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese se manipular objetos.
 
 -------------------------------------------------
-
+**_¿Qué es Opera?_**  
 <dl>
   <dt>¿Qué es Opera?</dt>
 
