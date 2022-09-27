@@ -15,7 +15,8 @@ Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en 
 3.  En 1998 se desarrolló el primer navegador para móviles.  
 4.  En Junio de 2000 se incluyo la navegación por pestañas.  
 
-[^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese se manipular objetos.
+[^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese se manipular objetos.  
+![OPERA](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL/blob/main/04-10%20Efemerides%20de%20Tecnologia%20Opera%20.jpg "OPERA")
 
 -------------------------------------------------
 **_¿Qué es Opera?_**  
