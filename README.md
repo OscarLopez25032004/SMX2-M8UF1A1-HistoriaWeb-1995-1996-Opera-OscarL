@@ -1,4 +1,3 @@
-### **_SMX2-M8UF1A1-HistoriaWeb-1995-1996-Opera-OscarL_**
 <center> <h1>Opera</h1> </center>
 
 ## `Historia de Opera`   
@@ -20,6 +19,3 @@ Barra temporal¿?¿?¿
 4.  En Junio de 2000 se incluyo la navegación por pestañas  
 
 [^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos.
-
-
-<center> <h1>Opera</h1> </center>
