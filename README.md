@@ -2,7 +2,7 @@
 
 ## `Historia de Opera`   
 - [ ] ¿**Qué** es Opera?  
-**Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
+**Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tablet.  
 - [ ] ¿**Cuándo** se desarrollo Opera?  
 Se estrenó el **10 de Abril de 1995** teniendo una licencia freeware, es decir que no hay que pagar por su licencia.  
 - [ ] ¿**Cómo** se desarrollo Opera?  
@@ -15,7 +15,7 @@ Lo desarrollo Hakon Wium Lie en el año 1995 como proyecto de investigación en 
 3.  En 1998 se desarrolló el primer navegador para móviles.  
 4.  En Junio de 2000 se incluyo la navegación por pestañas.  
 
-[^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos.
+[^1]: C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese se manipular objetos.
 
 -------------------------------------------------
 
