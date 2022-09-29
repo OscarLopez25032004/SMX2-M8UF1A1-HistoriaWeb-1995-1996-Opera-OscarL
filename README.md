@@ -1,5 +1,6 @@
-<center> <h1>Opera</h1> </center> 
+<center> <h1>Opera</h1> </center>
 
+## `Historia de Opera` 
 -------------------------------------------------
 **_¿Qué es Opera?_**  
 - [ ] **Opera** es un *navegador web* que se desarrolló por la empresa *Opera Software* y tiene versiones para ordenador, móvil y tabletas.  
